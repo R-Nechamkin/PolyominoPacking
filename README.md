@@ -4,4 +4,4 @@ This code packs polyominoes of up to 5 units into a rectangular grid.
 
 <br><br>Originally created for the 2024 Hack-it-Together Hackathon.
 
-<br>Coauthors: @serkez
+<br>Coauthors: @serkez @saharon613 @lshkap613
